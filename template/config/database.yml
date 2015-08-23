@@ -1,0 +1,5 @@
+
+development:
+  adapter:  sqlite3
+  database: ./example.db
+
