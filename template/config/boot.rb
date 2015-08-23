@@ -29,7 +29,7 @@ puts "RACK_ENV=#{ENV['RACK_ENV']}"
 require 'sinatra/base'    ## note: sinatra will pull in web server (e.g. rack)
 
 
-require 'activerecord'
+require 'active_record'
 
 
 ############################
