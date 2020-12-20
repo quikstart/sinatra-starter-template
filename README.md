@@ -7,8 +7,7 @@ $ quik new sinatra
 ```
 
 This will download and run
-the [`sinatra.rb`](https://github.com/rubyref/scripts/blob/master/sinatra.rb)
-quik starter wizard script. Resulting in:
+the quik starter wizard script ([`quik.rb`](quik)). Resulting in:
 
 ```
 Hello from the sinatra quick starter wizard script
@@ -46,7 +45,7 @@ That's it.
 
 ## More (Alternative) Quick Starter Templates / Scripts
 
-See the [Rubyref's Scripts](https://github.com/rubyref/scripts) library or try:
+See the [Quik Scripts](https://github.com/quikstart/scripts) catalog / directory or try:
 
 ```
 $ quik ls
