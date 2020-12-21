@@ -7,7 +7,7 @@ $ quik new sinatra
 ```
 
 This will download and run
-the quik starter wizard script ([`quik.rb`](quik)). Resulting in:
+the quik starter wizard script ([`quik.rb`](quik.rb)). Resulting in:
 
 ```
 Hello from the sinatra quick starter wizard script
